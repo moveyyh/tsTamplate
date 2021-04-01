@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "noImplicitAny": true
+  },
+  // **代表所有目录 *代表所有文件
+  "include": ["src/**/*"]
+}
